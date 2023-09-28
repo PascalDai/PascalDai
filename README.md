@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **PascalDai/PascalDai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,9 +14,7 @@ Here are some ideas to get you started:
 -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-28%20mins-blue)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-40-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-28%20mins-blue) ![Profile Views](http://img.shields.io/badge/Profile%20Views-40-blue)
 
 **🐱 My GitHub Data** 
 
