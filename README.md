@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-28%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-57-blue)
 
@@ -57,16 +57,19 @@ Sunday                   0 commits           ░░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Python                   13 mins             ███████████░░░░░░░░░░░░░░   45.12 % 
+Bash                     11 mins             ██████████░░░░░░░░░░░░░░░   40.08 % 
+Other                    4 mins              ████░░░░░░░░░░░░░░░░░░░░░   14.81 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  28 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+prettymaps               28 mins             █████████████████████████   99.39 % 
+.zsh                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      28 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Swift** 
@@ -83,5 +86,5 @@ CSS                      1 repo              ████████░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/PascalDai/PascalDai/main/assets/bar_graph.png)
 
 
- Last Updated on 28/09/2023 18:33:04 UTC
+ Last Updated on 29/09/2023 18:33:17 UTC
 <!--END_SECTION:waka-->
