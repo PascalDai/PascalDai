@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-9%20hrs%2059%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-10%20hrs%2056%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -57,16 +57,19 @@ Sunday                   3 commits           ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    5 mins              █████████████████████████   100.00 % 
+HTML                     38 mins             ███████████████░░░░░░░░░░   61.02 % 
+YAML                     19 mins             ████████░░░░░░░░░░░░░░░░░   30.59 % 
+Other                    5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.30 % 
+Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
 
 🔥 Editors: 
-VS Code                  5 mins              █████████████████████████   100.00 % 
+VS Code                  1 hr 2 mins         █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-TailinLabWebsite         5 mins              █████████████████████████   100.00 % 
+TailinLabWebsite         1 hr 2 mins         █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      5 mins              █████████████████████████   100.00 % 
+Mac                      1 hr 2 mins         █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -84,5 +87,5 @@ CSS                      1 repo              █████░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/PascalDai/PascalDai/main/assets/bar_graph.png)
 
 
- Last Updated on 23/11/2023 18:32:38 UTC
+ Last Updated on 24/11/2023 18:32:25 UTC
 <!--END_SECTION:waka-->
