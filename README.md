@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-180%20hrs%2057%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-187%20hrs%2010%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
@@ -57,16 +57,17 @@ Sunday                   3 commits           ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    2 hrs 43 mins       █████████████████████████   100.00 % 
+Other                    8 hrs 56 mins       █████████████████████████   100.00 % 
 
 🔥 Editors: 
-Safari                   2 hrs 43 mins       █████████████████████████   100.00 % 
+Safari                   4 hrs 46 mins       █████████████░░░░░░░░░░░░   53.35 % 
+GoogleChrome             4 hrs 10 mins       ████████████░░░░░░░░░░░░░   46.65 % 
 
 🐱‍💻 Projects: 
-Unknown Project          2 hrs 43 mins       █████████████████████████   100.00 % 
+Unknown Project          8 hrs 56 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      2 hrs 43 mins       █████████████████████████   100.00 % 
+Mac                      8 hrs 56 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -85,5 +86,5 @@ Ruby                     1 repo              █████░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/PascalDai/PascalDai/main/assets/bar_graph.png)
 
 
- Last Updated on 20/02/2024 18:33:11 UTC
+ Last Updated on 21/02/2024 18:32:13 UTC
 <!--END_SECTION:waka-->
