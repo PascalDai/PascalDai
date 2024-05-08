@@ -14,15 +14,13 @@ Here are some ideas to get you started:
 -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-397%20hrs%2024%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-400%20hrs%2055%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 123.0 kB Used in GitHub's Storage 
- > 
-> 🏆 13 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -57,20 +55,21 @@ Sunday                   3 commits           ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    9 hrs 25 mins       █████████████████████████   100.00 % 
+Other                    11 hrs 14 mins      █████████████████████████   100.00 % 
 
 🔥 Editors: 
-Safari                   7 hrs 17 mins       ███████████████████░░░░░░   75.79 % 
-Chrome                   2 hrs 7 mins        ██████░░░░░░░░░░░░░░░░░░░   22.03 % 
-GoogleChrome             12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.18 % 
+Safari                   7 hrs 59 mins       █████████████████░░░░░░░░   69.68 % 
+Chrome                   3 hrs 15 mins       ███████░░░░░░░░░░░░░░░░░░   28.48 % 
+GoogleChrome             12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.83 % 
+Messages                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 🐱‍💻 Projects: 
-SAWARATSUKI/ServiceLogos 4 hrs 13 mins       ███████████░░░░░░░░░░░░░░   44.90 % 
-GistNoesis/FourierKAN    3 hrs 4 mins        ████████░░░░░░░░░░░░░░░░░   32.57 % 
-Unknown Project          2 hrs 7 mins        ██████░░░░░░░░░░░░░░░░░░░   22.53 % 
+GistNoesis/FourierKAN    4 hrs 42 mins       ██████████░░░░░░░░░░░░░░░   41.84 % 
+SAWARATSUKI/ServiceLogos 3 hrs 16 mins       ███████░░░░░░░░░░░░░░░░░░   29.15 % 
+Unknown Project          3 hrs 15 mins       ███████░░░░░░░░░░░░░░░░░░   29.02 % 
 
 💻 Operating System: 
-Mac                      9 hrs 25 mins       █████████████████████████   100.00 % 
+Mac                      11 hrs 14 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -90,5 +89,5 @@ Ruby                     1 repo              ████░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/PascalDai/PascalDai/main/assets/bar_graph.png)
 
 
- Last Updated on 07/05/2024 18:35:03 UTC
+ Last Updated on 08/05/2024 18:34:32 UTC
 <!--END_SECTION:waka-->
