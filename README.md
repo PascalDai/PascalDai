@@ -14,15 +14,13 @@ Here are some ideas to get you started:
 -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-523%20hrs%2046%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-524%20hrs%2057%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 225.2 kB Used in GitHub's Storage 
- > 
-> 🏆 17 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -57,16 +55,23 @@ Sunday                   3 commits           ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Other                    1 hr 10 mins        █████████████████████████   100.00 % 
 
 🔥 Editors: 
-GoogleChrome             12 mins             █████████████████████████   100.00 % 
+Safari                   1 hr 6 mins         ████████████████████░░░░░   79.70 % 
+GoogleChrome             12 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.14 % 
+Chrome                   4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.11 % 
+Messages                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+biochunan/esmfold-docker-43 mins             ███████████████░░░░░░░░░░   61.21 % 
+biochunan/esmfold-docker-14 mins             █████░░░░░░░░░░░░░░░░░░░░   19.96 % 
+nicepkg/aide             5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.66 % 
+JustinSDK/dotSCAD        4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.03 % 
+Unknown Project          3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.15 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      1 hr 10 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -86,5 +91,5 @@ Ruby                     1 repo              ████░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/PascalDai/PascalDai/main/assets/bar_graph.png)
 
 
- Last Updated on 18/07/2024 18:38:08 UTC
+ Last Updated on 19/07/2024 18:37:12 UTC
 <!--END_SECTION:waka-->
