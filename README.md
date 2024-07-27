@@ -14,13 +14,15 @@ Here are some ideas to get you started:
 -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-537%20hrs%2048%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-537%20hrs%2052%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 225.2 kB Used in GitHub's Storage 
+ > 
+> 🏆 17 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -55,22 +57,18 @@ Sunday                   3 commits           ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    12 hrs 50 mins      █████████████████████████   100.00 % 
+Other                    10 hrs 45 mins      █████████████████████████   100.00 % 
 
 🔥 Editors: 
-Safari                   12 hrs 48 mins      █████████████████████████   98.15 % 
-GoogleChrome             12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.61 % 
-Chrome                   1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 % 
+Safari                   10 hrs 45 mins      █████████████████████████   98.09 % 
+GoogleChrome             12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.91 % 
 
 🐱‍💻 Projects: 
-DropbaseHQ/dropbase      10 hrs 38 mins      █████████████████████░░░░   82.88 % 
-arnog/mathlive?tab=readme1 hr 8 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.95 % 
-biochunan/esmfold-docker-37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.90 % 
-arnog/mathlive           14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.88 % 
-shell360/release?tab=read5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.74 % 
+DropbaseHQ/dropbase      10 hrs 43 mins      █████████████████████████   99.68 % 
+guywaldman/magic-cli     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 % 
 
 💻 Operating System: 
-Mac                      12 hrs 50 mins      █████████████████████████   100.00 % 
+Mac                      10 hrs 45 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -90,5 +88,5 @@ Ruby                     1 repo              ████░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/PascalDai/PascalDai/main/assets/bar_graph.png)
 
 
- Last Updated on 26/07/2024 18:35:38 UTC
+ Last Updated on 27/07/2024 18:36:16 UTC
 <!--END_SECTION:waka-->
