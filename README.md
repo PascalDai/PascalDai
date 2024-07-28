@@ -22,8 +22,6 @@ Here are some ideas to get you started:
 
 > 📦 225.2 kB Used in GitHub's Storage 
  > 
-> 🏆 17 Contributions in the Year 2024
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 11 Public Repositories 
@@ -88,5 +86,5 @@ Ruby                     1 repo              ████░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/PascalDai/PascalDai/main/assets/bar_graph.png)
 
 
- Last Updated on 27/07/2024 18:36:16 UTC
+ Last Updated on 28/07/2024 18:36:41 UTC
 <!--END_SECTION:waka-->
