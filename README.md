@@ -14,15 +14,13 @@ Here are some ideas to get you started:
 -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-561%20hrs%209%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-563%20hrs%2050%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 225.2 kB Used in GitHub's Storage 
- > 
-> 🏆 17 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -57,20 +55,21 @@ Sunday                   3 commits           ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    30 mins             █████████████████████████   100.00 % 
+Other                    3 hrs 11 mins       █████████████████████████   100.00 % 
 
 🔥 Editors: 
-Safari                   30 mins             ██████████████████░░░░░░░   70.66 % 
-GoogleChrome             12 mins             ███████░░░░░░░░░░░░░░░░░░   29.34 % 
+Safari                   3 hrs 11 mins       ███████████████████████░░   93.83 % 
+GoogleChrome             12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.17 % 
 
 🐱‍💻 Projects: 
-charmbracelet/pop        20 mins             █████████████████░░░░░░░░   66.27 % 
-balloonwj/CppGuide       6 mins              █████░░░░░░░░░░░░░░░░░░░░   20.09 % 
-Unknown Project          2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.93 % 
-makenotion/notion-sdk-js 2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.71 % 
+makenotion/notion-sdk-js 1 hr 21 mins        ███████████░░░░░░░░░░░░░░   42.61 % 
+dagmawibabi/ScholArxiv   29 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.65 % 
+balloonwj/CppGuide       24 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.99 % 
+charmbracelet/pop        20 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.50 % 
+PasteBar/PasteBarApp?tab=14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.47 % 
 
 💻 Operating System: 
-Mac                      30 mins             █████████████████████████   100.00 % 
+Mac                      3 hrs 11 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -90,5 +89,5 @@ Ruby                     1 repo              ████░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/PascalDai/PascalDai/main/assets/bar_graph.png)
 
 
- Last Updated on 16/08/2024 18:38:04 UTC
+ Last Updated on 17/08/2024 18:36:13 UTC
 <!--END_SECTION:waka-->
