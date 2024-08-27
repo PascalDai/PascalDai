@@ -57,17 +57,16 @@ Sunday                   3 commits           ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    4 hrs 14 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Safari                   4 hrs 14 mins       ████████████████████████░   95.29 % 
-GoogleChrome             12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.71 % 
+GoogleChrome             12 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-makenotion/notion-sdk-js 4 hrs 14 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      4 hrs 14 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -87,5 +86,5 @@ Ruby                     1 repo              ████░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/PascalDai/PascalDai/main/assets/bar_graph.png)
 
 
- Last Updated on 26/08/2024 18:38:32 UTC
+ Last Updated on 27/08/2024 18:38:49 UTC
 <!--END_SECTION:waka-->
