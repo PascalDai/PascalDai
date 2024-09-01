@@ -14,13 +14,15 @@ Here are some ideas to get you started:
 -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-568%20hrs%2057%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-572%20hrs%2019%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 225.2 kB Used in GitHub's Storage 
+ > 
+> 🏆 17 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -55,19 +57,19 @@ Sunday                   3 commits           ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    53 mins             █████████████████████████   100.00 % 
+Other                    4 hrs 15 mins       █████████████████████████   100.00 % 
 
 🔥 Editors: 
-Safari                   53 mins             ████████████████████░░░░░   80.86 % 
-GoogleChrome             12 mins             █████░░░░░░░░░░░░░░░░░░░░   19.14 % 
+Safari                   4 hrs 15 mins       ████████████████████████░   95.30 % 
+GoogleChrome             12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.70 % 
 
 🐱‍💻 Projects: 
-jbunke/stipple-effect    23 mins             ███████████░░░░░░░░░░░░░░   44.72 % 
-Unknown Project          22 mins             ███████████░░░░░░░░░░░░░░   43.02 % 
-meethigher/black-wukong-y6 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.26 % 
+jbunke/stipple-effect    3 hrs 45 mins       ██████████████████████░░░   88.48 % 
+Unknown Project          22 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.97 % 
+meethigher/black-wukong-y6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.56 % 
 
 💻 Operating System: 
-Mac                      53 mins             █████████████████████████   100.00 % 
+Mac                      4 hrs 15 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -87,5 +89,5 @@ Ruby                     1 repo              ████░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/PascalDai/PascalDai/main/assets/bar_graph.png)
 
 
- Last Updated on 31/08/2024 18:36:56 UTC
+ Last Updated on 01/09/2024 18:37:29 UTC
 <!--END_SECTION:waka-->
