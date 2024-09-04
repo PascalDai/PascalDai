@@ -14,13 +14,15 @@ Here are some ideas to get you started:
 -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-577%20hrs%2013%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-581%20hrs%2034%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 225.2 kB Used in GitHub's Storage 
+ > 
+> 🏆 17 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -55,21 +57,21 @@ Sunday                   3 commits           ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    9 hrs 9 mins        █████████████████████████   100.00 % 
+Other                    13 hrs 30 mins      █████████████████████████   100.00 % 
 
 🔥 Editors: 
-Safari                   9 hrs 9 mins        ████████████████████████░   97.76 % 
-GoogleChrome             12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.24 % 
+Safari                   13 hrs 30 mins      █████████████████████████   98.47 % 
+GoogleChrome             12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.53 % 
 
 🐱‍💻 Projects: 
-onlook-dev/onlook        4 hrs 20 mins       ████████████░░░░░░░░░░░░░   47.43 % 
-jbunke/stipple-effect    4 hrs 2 mins        ███████████░░░░░░░░░░░░░░   44.11 % 
-Unknown Project          22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.17 % 
-onlook-dev/onlook?tab=rea17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.11 % 
-meethigher/black-wukong-y6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.19 % 
+onlook-dev/onlook        8 hrs 41 mins       ████████████████░░░░░░░░░   64.36 % 
+jbunke/stipple-effect    4 hrs 2 mins        ███████░░░░░░░░░░░░░░░░░░   29.90 % 
+Unknown Project          22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.82 % 
+onlook-dev/onlook?tab=rea17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.11 % 
+meethigher/black-wukong-y6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.80 % 
 
 💻 Operating System: 
-Mac                      9 hrs 9 mins        █████████████████████████   100.00 % 
+Mac                      13 hrs 30 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -89,5 +91,5 @@ Ruby                     1 repo              ████░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/PascalDai/PascalDai/main/assets/bar_graph.png)
 
 
- Last Updated on 03/09/2024 18:39:42 UTC
+ Last Updated on 04/09/2024 18:38:16 UTC
 <!--END_SECTION:waka-->
