@@ -57,17 +57,16 @@ Sunday                   3 commits           ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    5 hrs 34 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Safari                   5 hrs 34 mins       ████████████████████████░   96.37 % 
-GoogleChrome             12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.63 % 
+GoogleChrome             12 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-caol64/wenyan            5 hrs 34 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      5 hrs 34 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -87,5 +86,5 @@ Ruby                     1 repo              ████░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/PascalDai/PascalDai/main/assets/bar_graph.png)
 
 
- Last Updated on 21/09/2024 18:38:35 UTC
+ Last Updated on 22/09/2024 18:38:31 UTC
 <!--END_SECTION:waka-->
