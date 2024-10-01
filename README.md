@@ -14,13 +14,15 @@ Here are some ideas to get you started:
 -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-597%20hrs%2052%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-601%20hrs%2024%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 225.2 kB Used in GitHub's Storage 
+ > 
+> 🏆 0 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -55,19 +57,19 @@ Sunday                   3 commits           ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    2 hrs 50 mins       █████████████████████████   100.00 % 
+Other                    6 hrs 22 mins       █████████████████████████   100.00 % 
 
 🔥 Editors: 
-Safari                   2 hrs 50 mins       ███████████████████████░░   93.12 % 
-GoogleChrome             12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.88 % 
+Safari                   6 hrs 22 mins       ████████████████████████░   96.82 % 
+GoogleChrome             12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.18 % 
 
 🐱‍💻 Projects: 
-lds133/weather_landscape 2 hrs 23 mins       █████████████████████░░░░   84.31 % 
-srush/GPU-Puzzles        22 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.32 % 
-pencilresearch/OpenScanne4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.37 % 
+srush/GPU-Puzzles        3 hrs 55 mins       ███████████████░░░░░░░░░░   61.41 % 
+lds133/weather_landscape 2 hrs 23 mins       █████████░░░░░░░░░░░░░░░░   37.53 % 
+pencilresearch/OpenScanne4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.05 % 
 
 💻 Operating System: 
-Mac                      2 hrs 50 mins       █████████████████████████   100.00 % 
+Mac                      6 hrs 22 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -87,5 +89,5 @@ Ruby                     1 repo              ████░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/PascalDai/PascalDai/main/assets/bar_graph.png)
 
 
- Last Updated on 30/09/2024 18:42:17 UTC
+ Last Updated on 01/10/2024 18:42:10 UTC
 <!--END_SECTION:waka-->
