@@ -14,13 +14,15 @@ Here are some ideas to get you started:
 -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-757%20hrs%2052%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-760%20hrs%207%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 225.1 kB Used in GitHub's Storage 
+ > 
+> 🏆 0 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -55,17 +57,20 @@ Sunday                   4 commits           ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    5 hrs 8 mins        █████████████████████████   100.00 % 
+Other                    4 hrs 58 mins       ████████████████████████░   97.32 % 
+Python                   8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.68 % 
 
 🔥 Editors: 
-Safari                   4 hrs 56 mins       ████████████████████████░   96.26 % 
-Messages                 11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.74 % 
+Safari                   5 hrs 6 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-arxiv_articles           5 hrs 8 mins        █████████████████████████   100.00 % 
+arxiv_articles           4 hrs 55 mins       ████████████████████████░   96.49 % 
+monlor/docker-xiaoya     6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.16 % 
+ashishps1/awesome-low-lev2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.70 % 
+XiaoMi/ha_xiaomi_home    2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 % 
 
 💻 Operating System: 
-Mac                      5 hrs 8 mins        █████████████████████████   100.00 % 
+Mac                      5 hrs 6 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -85,5 +90,5 @@ Shell                    1 repo              ████░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/PascalDai/PascalDai/main/assets/bar_graph.png)
 
 
- Last Updated on 02/01/2025 18:40:47 UTC
+ Last Updated on 03/01/2025 18:40:39 UTC
 <!--END_SECTION:waka-->
