@@ -55,18 +55,16 @@ Sunday                   4 commits           ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 18 mins             █████████████████░░░░░░░░   67.44 % 
-Other                    8 mins              ████████░░░░░░░░░░░░░░░░░   32.56 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Safari                   18 mins             █████████████████░░░░░░░░   67.44 % 
-Messages                 8 mins              ████████░░░░░░░░░░░░░░░░░   32.56 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-web-infra-dev/midscene   26 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      26 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -86,5 +84,5 @@ Shell                    1 repo              ████░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/PascalDai/PascalDai/main/assets/bar_graph.png)
 
 
- Last Updated on 02/02/2025 18:39:36 UTC
+ Last Updated on 03/02/2025 18:39:37 UTC
 <!--END_SECTION:waka-->
