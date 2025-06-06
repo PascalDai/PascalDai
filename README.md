@@ -14,15 +14,13 @@ Here are some ideas to get you started:
 -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C164%20hrs%2046%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C163%20hrs%2019%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-71-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-80-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 306.5 kB Used in GitHub's Storage 
- > 
-> 🏆 152 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -96,5 +94,5 @@ JavaScript               1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/PascalDai/PascalDai/main/assets/bar_graph.png)
 
 
- Last Updated on 06/06/2025 03:15:31 UTC
+ Last Updated on 06/06/2025 18:50:35 UTC
 <!--END_SECTION:waka-->
