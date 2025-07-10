@@ -14,13 +14,15 @@ Here are some ideas to get you started:
 -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C246%20hrs%2053%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C250%20hrs%2036%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 307.2 kB Used in GitHub's Storage 
+ > 
+> 🏆 177 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -55,19 +57,19 @@ Sunday                   19 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-SSH Config               10 hrs 19 mins      ███████████████░░░░░░░░░░   59.11 % 
-Other                    7 hrs 8 mins        ██████████░░░░░░░░░░░░░░░   40.89 % 
+SSH Config               11 hrs 31 mins      ███████████████░░░░░░░░░░   61.72 % 
+Other                    7 hrs 8 mins        ██████████░░░░░░░░░░░░░░░   38.28 % 
 
 🔥 Editors: 
-Safari                   17 hrs 28 mins      █████████████████████████   100.00 % 
+Safari                   18 hrs 39 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-rust-tutorial            10 hrs 55 mins      ████████████████░░░░░░░░░   62.48 % 
-EasyDisplayClient        6 hrs 28 mins       █████████░░░░░░░░░░░░░░░░   37.01 % 
-Gwitter                  5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 % 
+rust-tutorial            14 hrs 38 mins      ████████████████████░░░░░   78.40 % 
+EasyDisplayClient        3 hrs 56 mins       █████░░░░░░░░░░░░░░░░░░░░   21.12 % 
+Gwitter                  5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 % 
 
 💻 Operating System: 
-Mac                      17 hrs 28 mins      █████████████████████████   100.00 % 
+Mac                      18 hrs 39 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -87,5 +89,5 @@ JavaScript               1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/PascalDai/PascalDai/main/assets/bar_graph.png)
 
 
- Last Updated on 09/07/2025 18:52:58 UTC
+ Last Updated on 10/07/2025 18:53:01 UTC
 <!--END_SECTION:waka-->
