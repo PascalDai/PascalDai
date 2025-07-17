@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C261%20hrs%2027%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C261%20hrs%2048%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -24,9 +24,9 @@ Here are some ideas to get you started:
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 20 Public Repositories 
+> 📜 19 Public Repositories 
  > 
-> 🔑 2 Private Repositories 
+> 🔑 3 Private Repositories 
  > 
 **I'm an Early 🐤** 
 
@@ -55,20 +55,20 @@ Sunday                   19 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-SSH Config               10 hrs 53 mins      ███████████████████░░░░░░   74.75 % 
-Other                    3 hrs 40 mins       ██████░░░░░░░░░░░░░░░░░░░   25.25 % 
+SSH Config               7 hrs 31 mins       █████████████████░░░░░░░░   67.17 % 
+Other                    3 hrs 40 mins       ████████░░░░░░░░░░░░░░░░░   32.83 % 
 
 🔥 Editors: 
-Safari                   14 hrs 34 mins      █████████████████████████   100.00 % 
+Safari                   11 hrs 12 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-rust-tutorial            7 hrs 15 mins       ████████████░░░░░░░░░░░░░   49.77 % 
-oauth                    6 hrs 25 mins       ███████████░░░░░░░░░░░░░░   44.04 % 
-opencode                 52 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.95 % 
-Ech0                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 % 
+oauth                    6 hrs 46 mins       ███████████████░░░░░░░░░░   60.39 % 
+rust-tutorial            3 hrs 32 mins       ████████░░░░░░░░░░░░░░░░░   31.57 % 
+opencode                 52 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.74 % 
+Ech0                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 % 
 
 💻 Operating System: 
-Mac                      14 hrs 34 mins      █████████████████████████   100.00 % 
+Mac                      11 hrs 12 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -88,5 +88,5 @@ JavaScript               1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/PascalDai/PascalDai/main/assets/bar_graph.png)
 
 
- Last Updated on 16/07/2025 18:54:28 UTC
+ Last Updated on 17/07/2025 18:54:51 UTC
 <!--END_SECTION:waka-->
