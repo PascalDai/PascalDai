@@ -14,15 +14,13 @@ Here are some ideas to get you started:
 -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C266%20hrs%2056%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C267%20hrs%2048%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 307.3 kB Used in GitHub's Storage 
- > 
-> 🏆 182 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -57,16 +55,19 @@ Sunday                   23 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+SSH Config               45 mins             ██████████████████████░░░   88.83 % 
+Other                    5 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.17 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Safari                   51 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+BoardGameRuleHelper      44 mins             ██████████████████████░░░   86.17 % 
+meltylabs                4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.49 % 
+oauth                    2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.34 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      51 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -86,5 +87,5 @@ JavaScript               1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/PascalDai/PascalDai/main/assets/bar_graph.png)
 
 
- Last Updated on 27/07/2025 18:52:08 UTC
+ Last Updated on 28/07/2025 18:57:27 UTC
 <!--END_SECTION:waka-->
