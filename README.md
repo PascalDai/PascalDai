@@ -14,15 +14,13 @@ Here are some ideas to get you started:
 -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C292%20hrs%203%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C292%20hrs%2011%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 307.3 kB Used in GitHub's Storage 
- > 
-> 🏆 182 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -57,17 +55,18 @@ Sunday                   23 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 59 mins             █████████████████████████   100.00 % 
+Markdown                 1 hr 7 mins         █████████████████████████   100.00 % 
 
 🔥 Editors: 
-Safari                   59 mins             █████████████████████████   100.00 % 
+Safari                   1 hr 7 mins         █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-snippai                  43 mins             ██████████████████░░░░░░░   73.05 % 
-vYinn                    15 mins             ███████░░░░░░░░░░░░░░░░░░   26.95 % 
+snippai                  43 mins             ████████████████░░░░░░░░░   64.07 % 
+vYinn                    15 mins             ██████░░░░░░░░░░░░░░░░░░░   23.64 % 
+CuteClock                8 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.29 % 
 
 💻 Operating System: 
-Mac                      59 mins             █████████████████████████   100.00 % 
+Mac                      1 hr 7 mins         █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -87,5 +86,5 @@ JavaScript               1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/PascalDai/PascalDai/main/assets/bar_graph.png)
 
 
- Last Updated on 22/08/2025 18:50:10 UTC
+ Last Updated on 23/08/2025 18:46:50 UTC
 <!--END_SECTION:waka-->
