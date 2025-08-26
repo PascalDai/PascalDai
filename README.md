@@ -22,8 +22,6 @@ Here are some ideas to get you started:
 
 > 📦 307.3 kB Used in GitHub's Storage 
  > 
-> 🏆 182 Contributions in the Year 2025
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 20 Public Repositories 
@@ -57,17 +55,16 @@ Sunday                   23 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 24 mins             █████████████████████████   100.00 % 
+Markdown                 8 mins              █████████████████████████   100.00 % 
 
 🔥 Editors: 
-Safari                   24 mins             █████████████████████████   100.00 % 
+Safari                   8 mins              █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-vYinn                    15 mins             ████████████████░░░░░░░░░   65.78 % 
-CuteClock                8 mins              █████████░░░░░░░░░░░░░░░░   34.22 % 
+CuteClock                8 mins              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      24 mins             █████████████████████████   100.00 % 
+Mac                      8 mins              █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -87,5 +84,5 @@ JavaScript               1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/PascalDai/PascalDai/main/assets/bar_graph.png)
 
 
- Last Updated on 25/08/2025 18:51:07 UTC
+ Last Updated on 26/08/2025 18:49:26 UTC
 <!--END_SECTION:waka-->
