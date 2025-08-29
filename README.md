@@ -14,15 +14,13 @@ Here are some ideas to get you started:
 -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C292%20hrs%2011%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C292%20hrs%2042%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 307.3 kB Used in GitHub's Storage 
- > 
-> 🏆 182 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -57,16 +55,20 @@ Sunday                   23 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 8 mins              █████████████████████████   100.00 % 
+Markdown                 26 mins             █████████████████░░░░░░░░   67.53 % 
+Other                    12 mins             ████████░░░░░░░░░░░░░░░░░   32.47 % 
 
 🔥 Editors: 
-Safari                   8 mins              █████████████████████████   100.00 % 
+Safari                   38 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-CuteClock                8 mins              █████████████████████████   100.00 % 
+share                    18 mins             ████████████░░░░░░░░░░░░░   47.15 % 
+CuteClock                10 mins             ███████░░░░░░░░░░░░░░░░░░   28.03 % 
+schedule                 6 mins              ████░░░░░░░░░░░░░░░░░░░░░   16.52 % 
+croc                     3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.30 % 
 
 💻 Operating System: 
-Mac                      8 mins              █████████████████████████   100.00 % 
+Mac                      38 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -86,5 +88,5 @@ JavaScript               1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/PascalDai/PascalDai/main/assets/bar_graph.png)
 
 
- Last Updated on 28/08/2025 18:51:04 UTC
+ Last Updated on 29/08/2025 18:46:32 UTC
 <!--END_SECTION:waka-->
