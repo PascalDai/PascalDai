@@ -22,8 +22,6 @@ Here are some ideas to get you started:
 
 > 📦 307.3 kB Used in GitHub's Storage 
  > 
-> 🏆 182 Contributions in the Year 2025
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 20 Public Repositories 
@@ -86,5 +84,5 @@ JavaScript               1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/PascalDai/PascalDai/main/assets/bar_graph.png)
 
 
- Last Updated on 14/09/2025 18:44:17 UTC
+ Last Updated on 15/09/2025 18:48:32 UTC
 <!--END_SECTION:waka-->
