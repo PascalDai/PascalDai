@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C309%20hrs%2017%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C311%20hrs%206%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -57,17 +57,18 @@ Sunday                   23 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 29 mins             █████████████████████████   100.00 % 
+Markdown                 2 hrs 17 mins       █████████████████████████   100.00 % 
 
 🔥 Editors: 
-Safari                   29 mins             █████████████████████████   100.00 % 
+Safari                   2 hrs 17 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-ClassIsland?tab=readme-ov26 mins             ███████████████████████░░   90.65 % 
-ClassIsland              2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.35 % 
+CubeCity                 1 hr 8 mins         ████████████░░░░░░░░░░░░░   49.94 % 
+ClassIsland?tab=readme-ov1 hr 6 mins         ████████████░░░░░░░░░░░░░   48.07 % 
+ClassIsland              2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.99 % 
 
 💻 Operating System: 
-Mac                      29 mins             █████████████████████████   100.00 % 
+Mac                      2 hrs 17 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -87,5 +88,5 @@ JavaScript               1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/PascalDai/PascalDai/main/assets/bar_graph.png)
 
 
- Last Updated on 29/09/2025 18:49:32 UTC
+ Last Updated on 30/09/2025 18:48:39 UTC
 <!--END_SECTION:waka-->
