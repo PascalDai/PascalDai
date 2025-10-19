@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C320%20hrs%2019%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C321%20hrs%2038%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 > 📦 307.3 kB Used in GitHub's Storage 
  > 
-> 🏆 182 Contributions in the Year 2025
+> 🏆 183 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -57,18 +57,18 @@ Sunday                   23 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 9 hrs 6 mins        █████████████████████████   100.00 % 
+Markdown                 10 hrs 25 mins      █████████████████████████   100.00 % 
 
 🔥 Editors: 
-Safari                   9 hrs 6 mins        █████████████████████████   100.00 % 
+Safari                   10 hrs 25 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-goodtime                 6 hrs 18 mins       █████████████████░░░░░░░░   69.23 % 
-TypeWords                2 hrs 20 mins       ██████░░░░░░░░░░░░░░░░░░░   25.66 % 
-CubeCity                 27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.11 % 
+goodtime                 6 hrs 18 mins       ███████████████░░░░░░░░░░   60.46 % 
+TypeWords                3 hrs 39 mins       █████████░░░░░░░░░░░░░░░░   35.07 % 
+CubeCity                 27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.46 % 
 
 💻 Operating System: 
-Mac                      9 hrs 6 mins        █████████████████████████   100.00 % 
+Mac                      10 hrs 25 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -88,5 +88,5 @@ JavaScript               1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/PascalDai/PascalDai/main/assets/bar_graph.png)
 
 
- Last Updated on 18/10/2025 18:46:10 UTC
+ Last Updated on 19/10/2025 18:46:20 UTC
 <!--END_SECTION:waka-->
