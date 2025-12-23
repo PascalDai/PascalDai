@@ -14,9 +14,9 @@ Here are some ideas to get you started:
 -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C407%20hrs%2055%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C408%20hrs%204%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
@@ -57,19 +57,19 @@ Sunday                   23 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Ruby                     12 hrs 39 mins      █████████████████████████   99.07 % 
-Other                    7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.93 % 
+Ruby                     11 hrs 7 mins       █████████████████████████   98.94 % 
+Other                    7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.06 % 
 
 🔥 Editors: 
-Safari                   12 hrs 39 mins      █████████████████████████   99.07 % 
-Messages                 7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.93 % 
+Safari                   11 hrs 7 mins       █████████████████████████   98.94 % 
+Messages                 7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.06 % 
 
 🐱‍💻 Projects: 
-public-image-mirror?tab=r9 hrs 44 mins       ███████████████████░░░░░░   76.25 % 
-WeMD                     3 hrs 2 mins        ██████░░░░░░░░░░░░░░░░░░░   23.75 % 
+public-image-mirror?tab=r8 hrs 3 mins        ██████████████████░░░░░░░   71.71 % 
+WeMD                     3 hrs 10 mins       ███████░░░░░░░░░░░░░░░░░░   28.29 % 
 
 💻 Operating System: 
-Mac                      12 hrs 46 mins      █████████████████████████   100.00 % 
+Mac                      11 hrs 14 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -89,5 +89,5 @@ Astro                    1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/PascalDai/PascalDai/main/assets/bar_graph.png)
 
 
- Last Updated on 22/12/2025 18:55:01 UTC
+ Last Updated on 23/12/2025 18:55:26 UTC
 <!--END_SECTION:waka-->
