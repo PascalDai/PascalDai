@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C417%20hrs%204%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C417%20hrs%2042%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 > 📦 307.4 kB Used in GitHub's Storage 
  > 
-> 🏆 184 Contributions in the Year 2025
+> 🏆 0 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -57,19 +57,19 @@ Sunday                   23 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Ruby                     8 hrs 50 mins       █████████████████████████   99.97 % 
+Ruby                     8 hrs 10 mins       █████████████████████████   99.97 % 
 Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
 
 🔥 Editors: 
-Safari                   8 hrs 50 mins       █████████████████████████   99.97 % 
+Safari                   8 hrs 10 mins       █████████████████████████   99.97 % 
 Messages                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
 
 🐱‍💻 Projects: 
-MADOLA                   5 hrs 44 mins       ████████████████░░░░░░░░░   64.97 % 
-WeMD                     3 hrs 5 mins        █████████░░░░░░░░░░░░░░░░   35.03 % 
+MADOLA                   6 hrs 22 mins       ███████████████████░░░░░░   77.86 % 
+WeMD                     1 hr 48 mins        ██████░░░░░░░░░░░░░░░░░░░   22.14 % 
 
 💻 Operating System: 
-Mac                      8 hrs 50 mins       █████████████████████████   100.00 % 
+Mac                      8 hrs 10 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -89,5 +89,5 @@ Astro                    1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/PascalDai/PascalDai/main/assets/bar_graph.png)
 
 
- Last Updated on 31/12/2025 18:53:29 UTC
+ Last Updated on 01/01/2026 18:54:31 UTC
 <!--END_SECTION:waka-->
