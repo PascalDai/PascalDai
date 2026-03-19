@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C456%20hrs%2011%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C457%20hrs%2019%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -57,18 +57,19 @@ Sunday                   23 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 4 hrs 20 mins       █████████████████████████   100.00 % 
+Markdown                 8 hrs 13 mins       █████████████████████████   100.00 % 
 
 🔥 Editors: 
-Safari                   4 hrs 15 mins       █████████████████████████   98.26 % 
-Cursor                   4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.74 % 
+Safari                   8 hrs 9 mins        █████████████████████████   99.08 % 
+Cursor                   4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.92 % 
 
 🐱‍💻 Projects: 
-worldmonitor             4 hrs 15 mins       █████████████████████████   98.26 % 
-TailinLabWebsite         4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.74 % 
+worldmonitor             5 hrs 44 mins       █████████████████░░░░░░░░   69.70 % 
+Stirling-PDF             2 hrs 25 mins       ███████░░░░░░░░░░░░░░░░░░   29.39 % 
+TailinLabWebsite         4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.92 % 
 
 💻 Operating System: 
-Mac                      4 hrs 20 mins       █████████████████████████   100.00 % 
+Mac                      8 hrs 13 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -88,5 +89,5 @@ Astro                    1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/PascalDai/PascalDai/main/assets/bar_graph.png)
 
 
- Last Updated on 18/03/2026 19:34:32 UTC
+ Last Updated on 19/03/2026 19:32:47 UTC
 <!--END_SECTION:waka-->
