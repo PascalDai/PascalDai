@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C471%20hrs%2046%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C474%20hrs%2010%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 > 📦 307.4 kB Used in GitHub's Storage 
  > 
-> 🏆 0 Contributions in the Year 2026
+> 🏆 1 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -74,11 +74,11 @@ Mac                      12 hrs 57 mins      ███████████�
 **I Mostly Code in Python** 
 
 ```text
-Python                   6 repos             █████████░░░░░░░░░░░░░░░░   37.50 % 
-TypeScript               4 repos             ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
-Swift                    2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
-C#                       1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   06.25 % 
-Astro                    1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   06.25 % 
+Python                   6 repos             █████████░░░░░░░░░░░░░░░░   35.29 % 
+TypeScript               4 repos             ██████░░░░░░░░░░░░░░░░░░░   23.53 % 
+Swift                    2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.76 % 
+C#                       1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
+Astro                    1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
 ```
 
 
@@ -88,5 +88,5 @@ Astro                    1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/PascalDai/PascalDai/main/assets/bar_graph.png)
 
 
- Last Updated on 26/03/2026 19:41:56 UTC
+ Last Updated on 27/03/2026 19:20:12 UTC
 <!--END_SECTION:waka-->
