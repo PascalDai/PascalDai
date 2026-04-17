@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C497%20hrs%2048%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C498%20hrs%2025%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
 
@@ -30,46 +30,6 @@ Here are some ideas to get you started:
  > 
 > 🔑 3 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                30 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.27 % 
-🌆 Daytime                121 commits         ██████████░░░░░░░░░░░░░░░   41.44 % 
-🌃 Evening                123 commits         ███████████░░░░░░░░░░░░░░   42.12 % 
-🌙 Night                  18 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.16 % 
-```
-📅 **I'm Most Productive on Monday** 
-
-```text
-Monday                   68 commits          ██████░░░░░░░░░░░░░░░░░░░   23.29 % 
-Tuesday                  34 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.64 % 
-Wednesday                45 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.41 % 
-Thursday                 47 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.10 % 
-Friday                   26 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.90 % 
-Saturday                 49 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.78 % 
-Sunday                   23 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.88 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Shanghai
-
-💬 Programming Languages: 
-Markdown                 5 hrs 38 mins       █████████████████████████   100.00 % 
-
-🔥 Editors: 
-Safari                   5 hrs 38 mins       █████████████████████████   100.00 % 
-
-🐱‍💻 Projects: 
-openrocket               4 hrs 9 mins        ██████████████████░░░░░░░   73.72 % 
-browser                  1 hr 28 mins        ███████░░░░░░░░░░░░░░░░░░   26.28 % 
-
-💻 Operating System: 
-Mac                      5 hrs 38 mins       █████████████████████████   100.00 % 
-```
-
 **I Mostly Code in Python** 
 
 ```text
@@ -87,5 +47,5 @@ Astro                    1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/PascalDai/PascalDai/main/assets/bar_graph.png)
 
 
- Last Updated on 16/04/2026 19:41:11 UTC
+ Last Updated on 17/04/2026 19:35:27 UTC
 <!--END_SECTION:waka-->
