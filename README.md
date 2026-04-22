@@ -14,9 +14,9 @@ Here are some ideas to get you started:
 -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C507%20hrs%2010%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C508%20hrs%2045%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -57,20 +57,20 @@ Sunday                   23 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 12 hrs 38 mins      █████████████████████████   99.96 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
+Markdown                 11 hrs 54 mins      █████████████████████████   99.95 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
 
 🔥 Editors: 
-Safari                   12 hrs 38 mins      █████████████████████████   99.96 % 
-Messages                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
+Safari                   11 hrs 54 mins      █████████████████████████   99.95 % 
+Messages                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
 
 🐱‍💻 Projects: 
-GenericAgent#chinese     8 hrs 17 mins       ████████████████░░░░░░░░░   65.55 % 
-openrocket               4 hrs 19 mins       █████████░░░░░░░░░░░░░░░░   34.18 % 
-GenericAgent             2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 % 
+GenericAgent#chinese     9 hrs 17 mins       ████████████████████░░░░░   78.01 % 
+openrocket               2 hrs 35 mins       █████░░░░░░░░░░░░░░░░░░░░   21.71 % 
+GenericAgent             2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 % 
 
 💻 Operating System: 
-Mac                      12 hrs 39 mins      █████████████████████████   100.00 % 
+Mac                      11 hrs 54 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -90,5 +90,5 @@ Astro                    1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/PascalDai/PascalDai/main/assets/bar_graph.png)
 
 
- Last Updated on 21/04/2026 19:42:55 UTC
+ Last Updated on 22/04/2026 19:44:43 UTC
 <!--END_SECTION:waka-->
