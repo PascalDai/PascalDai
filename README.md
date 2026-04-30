@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C511%20hrs%2032%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C512%20hrs%2045%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
 
@@ -57,18 +57,18 @@ Sunday                   23 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 3 hrs               █████████████████████████   100.00 % 
+Markdown                 1 hr 58 mins        █████████████████████████   100.00 % 
 
 🔥 Editors: 
-Safari                   3 hrs               █████████████████████████   100.00 % 
+Safari                   1 hr 58 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-GenericAgent#chinese     1 hr 32 mins        █████████████░░░░░░░░░░░░   51.45 % 
-animal-island-ui         1 hr 23 mins        ████████████░░░░░░░░░░░░░   46.31 % 
-nezha                    4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.24 % 
+animal-island-ui         1 hr 23 mins        ██████████████████░░░░░░░   70.61 % 
+GenericAgent#chinese     30 mins             ██████░░░░░░░░░░░░░░░░░░░   25.97 % 
+nezha                    4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.42 % 
 
 💻 Operating System: 
-Mac                      3 hrs               █████████████████████████   100.00 % 
+Mac                      1 hr 58 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -88,5 +88,5 @@ Astro                    1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/PascalDai/PascalDai/main/assets/bar_graph.png)
 
 
- Last Updated on 29/04/2026 19:58:14 UTC
+ Last Updated on 30/04/2026 19:54:14 UTC
 <!--END_SECTION:waka-->
