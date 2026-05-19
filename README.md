@@ -14,13 +14,13 @@ Here are some ideas to get you started:
 -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C514%20hrs%2038%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C515%20hrs%203%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 307.4 kB Used in GitHub's Storage 
+> 📦 307.5 kB Used in GitHub's Storage 
  > 
 > 🏆 1 Contributions in the Year 2026
  > 
@@ -57,19 +57,19 @@ Sunday                   23 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 29 mins             ███████████████████░░░░░░   77.11 % 
-Other                    8 mins              ██████░░░░░░░░░░░░░░░░░░░   22.89 % 
+Other                    33 mins             █████████████░░░░░░░░░░░░   53.37 % 
+Markdown                 29 mins             ████████████░░░░░░░░░░░░░   46.63 % 
 
 🔥 Editors: 
-Safari                   38 mins             █████████████████████████   100.00 % 
+Safari                   1 hr 2 mins         █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-animal-island-ui         24 mins             ████████████████░░░░░░░░░   65.76 % 
-vfReleases               10 mins             ███████░░░░░░░░░░░░░░░░░░   28.07 % 
-vibeflow                 2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.16 % 
+vfReleases               35 mins             ██████████████░░░░░░░░░░░   56.51 % 
+animal-island-ui         24 mins             ██████████░░░░░░░░░░░░░░░   39.77 % 
+vibeflow                 2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.73 % 
 
 💻 Operating System: 
-Mac                      38 mins             █████████████████████████   100.00 % 
+Mac                      1 hr 2 mins         █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -89,5 +89,5 @@ Astro                    1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/PascalDai/PascalDai/main/assets/bar_graph.png)
 
 
- Last Updated on 18/05/2026 20:08:49 UTC
+ Last Updated on 19/05/2026 20:09:49 UTC
 <!--END_SECTION:waka-->
