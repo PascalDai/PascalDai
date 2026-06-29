@@ -57,8 +57,7 @@ Sunday                   23 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    0 secs              █████████████░░░░░░░░░░░░   50.76 % 
-YAML                     0 secs              ████████████░░░░░░░░░░░░░   49.24 % 
+YAML                     0 secs              █████████████████████████   100.00 % 
 
 🔥 Editors: 
 VS Code                  0 secs              █████████████████████████   100.00 % 
@@ -87,5 +86,5 @@ Astro                    1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/PascalDai/PascalDai/main/assets/bar_graph.png)
 
 
- Last Updated on 28/06/2026 19:51:00 UTC
+ Last Updated on 29/06/2026 20:19:04 UTC
 <!--END_SECTION:waka-->
