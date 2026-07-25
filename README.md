@@ -14,6 +14,8 @@ Here are some ideas to get you started:
 -->
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C530%20hrs%2022%20mins-blue?style=flat)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
@@ -28,6 +30,45 @@ Here are some ideas to get you started:
  > 
 > 🔑 3 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                29 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.07 % 
+🌆 Daytime                121 commits         ████████████░░░░░░░░░░░░░   46.18 % 
+🌃 Evening                98 commits          █████████░░░░░░░░░░░░░░░░   37.40 % 
+🌙 Night                  14 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.34 % 
+```
+📅 **I'm Most Productive on Saturday** 
+
+```text
+Monday                   43 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.41 % 
+Tuesday                  29 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.07 % 
+Wednesday                45 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.18 % 
+Thursday                 47 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.94 % 
+Friday                   26 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.92 % 
+Saturday                 49 commits          █████░░░░░░░░░░░░░░░░░░░░   18.70 % 
+Sunday                   23 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.78 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Shanghai
+
+💬 Programming Languages: 
+Markdown                 9 mins              █████████████████████████   100.00 % 
+
+🔥 Editors: 
+VS Code                  9 mins              █████████████████████████   100.00 % 
+
+🐱‍💻 Projects: 
+TailinLabWebsite         9 mins              █████████████████████████   100.00 % 
+
+💻 Operating System: 
+Mac                      9 mins              █████████████████████████   100.00 % 
+```
+
 **I Mostly Code in Python** 
 
 ```text
@@ -45,5 +86,5 @@ Astro                    1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/PascalDai/PascalDai/main/assets/bar_graph.png)
 
 
- Last Updated on 24/07/2026 19:52:30 UTC
+ Last Updated on 25/07/2026 19:39:53 UTC
 <!--END_SECTION:waka-->
