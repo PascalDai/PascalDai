@@ -59,16 +59,21 @@ Sunday                   23 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Markdown                 1 hr 24 mins        ███████████████████░░░░░░   76.12 % 
+HTML                     15 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.72 % 
+Other                    10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.77 % 
+YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Safari                   59 mins             █████████████░░░░░░░░░░░░   52.91 % 
+VS Code                  52 mins             ████████████░░░░░░░░░░░░░   47.09 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+group-meeting-materials  59 mins             █████████████░░░░░░░░░░░░   52.91 % 
+TailinLabWebsite         52 mins             ████████████░░░░░░░░░░░░░   47.09 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      1 hr 51 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -94,5 +99,5 @@ Astro                    1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/PascalDai/PascalDai/main/assets/bar_graph.png)
 
 
- Last Updated on 19/09/2026 20:52:09 UTC
+ Last Updated on 20/09/2026 20:57:21 UTC
 <!--END_SECTION:waka-->
